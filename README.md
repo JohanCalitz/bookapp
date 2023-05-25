@@ -14,7 +14,7 @@ AUTHOR: JOHAN CALITZ
 
 -> Getting Started
 To get the BookApp up and running on your machine, follow these steps:
-•Download the source code
+•Download the source code or (git clone https://github.com/JohanCalitz/bookapp.git)
 •Build the project
 •Run the application
 
